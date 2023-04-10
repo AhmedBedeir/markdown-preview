@@ -28,7 +28,7 @@ function App() {
           </div>
         </Split>
         <div className="footer">
-          <a href="https://github.com/AhmedBedeir" target="_blank">
+          <a href="#" target="_blank">
             <AiOutlineGithub />
           </a>
         </div>
